@@ -8,5 +8,6 @@ CREATE TABLE names (
 
 INSERT INTO names (name) VALUES ('Kana');
 INSERT INTO names (name) VALUES ('Naoko');
+INSERT INTO names (name) VALUES ('Cisco');
 
 
