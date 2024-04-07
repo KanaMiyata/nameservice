@@ -6,8 +6,8 @@ CREATE TABLE names (
  PRIMARY KEY(id)
 );
 
-INSERT INTO names (name) VALUES ('Kana');
-INSERT INTO names (name) VALUES ('Naoko');
-INSERT INTO names (name) VALUES ('Cisco');
+INSERT INTO names (name,age) VALUES ('Kana');
+INSERT INTO names (name,age) VALUES ('Naoko');
+INSERT INTO names (name,age) VALUES ('Cisco');
 
 
